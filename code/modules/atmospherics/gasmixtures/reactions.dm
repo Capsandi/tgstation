@@ -8,7 +8,6 @@ tritfire = -2
 halon_o2removal = -1
 nitrous_decomp = 0
 water_vapor = 1
-nitryl_decomp = 21
 pluox_formation = 2
 nitrylformation = 3
 bzformation = 4
@@ -23,6 +22,7 @@ halon_formation = 12
 proto_nitrate_response = 13 - 18
 fusion = 19
 metallic_hydrogen = 20
+nitryl_decomp = 21
 nobiliumsuppression = INFINITY
 */
 
