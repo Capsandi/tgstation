@@ -17,6 +17,7 @@
 #define ROLE_TRAITOR "Traitor"
 #define ROLE_WIZARD "Wizard"
 #define ROLE_SPY "Spy"
+#define ROLE_WORM "Worm Host"
 
 // Midround roles
 #define ROLE_ABDUCTOR "Abductor"
