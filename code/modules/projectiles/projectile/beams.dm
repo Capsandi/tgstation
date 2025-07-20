@@ -167,7 +167,7 @@
 
 /obj/projectile/beam/pulse
 	name = "pulse"
-	icon_state = "u_laser"
+	icon_state = "pulse1"
 	damage = 50
 	impact_effect_type = /obj/effect/temp_visual/impact_effect/blue_laser
 	light_color = LIGHT_COLOR_BLUE
